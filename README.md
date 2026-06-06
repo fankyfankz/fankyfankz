@@ -20,14 +20,7 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fankyfankz&show_icons=true&theme=github_dark&hide_border=true&title_color=6ea7ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=6ea7ff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fankyfankz&layout=compact&theme=github_dark&hide_border=true&title_color=6ea7ff&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fankyfankz&theme=github-dark-blue&hide_border=true&ring=6ea7ff&fire=d29922&currStreakLabel=6ea7ff&sideLabels=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fankyfankz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
