@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fankyfankz&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=fankyfankz&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -37,7 +37,7 @@
 ## 📚 Player Data
 
 ```js
-const fankyfankz = {
+const player = {
   username  : "fankyfankz",
   class     : "Full-Stack Developer",
   biome     : "Indonesia",
