@@ -10,7 +10,7 @@
 ![Mode](https://img.shields.io/badge/Game%20Mode-Survival%20Hardcore-9e6a03?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Online%20%26%20Building-1f6feb?style=flat-square)
 ![Level](https://img.shields.io/badge/Level-Beginner-6ea7ff?style=flat-square)
-![Visitor](https://komarev.com/ghpvc/?username=fankyfankz&color=3fb950&style=flat-square&label=Profile+Views)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffankyfankz&label=Profile%20Views&countColor=%2337d67a&style=flat-square&labelStyle=none)
 
 </div>
 
@@ -45,7 +45,7 @@ const player = {
   weakness  : ["merge conflicts", "missing semicolons"],
   strength  : ["debugging at midnight", "clean architecture"],
   drops     : ["clean code", "well-documented PRs"],
-  quote     : "It's not a bug — it's an undocumented feature.",
+  quote     : "It's not a bug — it's a feature.",
   funFact   : "Writes better code after 11 PM",
 };
 ```
@@ -56,8 +56,9 @@ const player = {
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fankyfankz)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fankyfankz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fankyfankz@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fankzfanky)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:6ea7ff&height=100&section=footer" />
 
